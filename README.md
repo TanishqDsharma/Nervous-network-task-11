@@ -4,7 +4,7 @@
 
 ## 1) A screenshot of the accounts you created (account list) in ckb-cli.
       
-      ![alt text](https://github.com/TanishqDsharma/Nervous-network-task-11/blob/main/task11.2.png)
+   ![alt text](https://github.com/TanishqDsharma/nervous-network-task-1/blob/main/accountlist.png)
 
 ## 2) A link to the Layer 1 address you funded on the Testnet Explorer. 
       
@@ -12,11 +12,11 @@
 
 ## 3)A screenshot of the console output immediately after you have successfully submitted a CKByte deposit to your Tron account on Layer 2.
 
-     ![alt text](https://github.com/TanishqDsharma/Nervous-network-task-11/blob/main/task11.png)
+   ![alt text](https://github.com/TanishqDsharma/nervous-network-task-1/blob/main/accountlist.png)
      
 ## 4)A screenshot of the console output immediately after you have successfully issued a smart contract calls on Layer 2.
 
-     ![alt text](https://github.com/TanishqDsharma/Nervous-network-task-11/blob/main/TASK11.3.png)
+   ![alt text](https://github.com/TanishqDsharma/nervous-network-task-1/blob/main/accountlist.png)
 
 ## 5)The transaction hash of the "Contract call" from the console output (in text format).
        
